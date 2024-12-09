@@ -7,6 +7,6 @@
     { "source": "/news", "destination": "/news.html" },
    { "source": "/reports", "destination": "/reports.html" },
     { "source": "/join", "destination": "/join.html" },
-   { "source": "/contacts", "destination": "/contacts.html" },
+   { "source": "/contacts", "destination": "/contacts.html" }
   ]
 }
