@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" },
+    { "source": "/donation", "destination": "/donation.html" },
+    { "source": "/news_office", "destination": "/news_office.html" },
+    { "source": "/alumni", "destination": "/alumni.html" },
+    { "source": "/news", "destination": "/news.html" },
+   { "source": "/reports", "destination": "/reports.html" },
+    { "source": "/join", "destination": "/join.html" },
+   { "source": "/contacts", "destination": "/contacts.html" },
+  ]
+}
