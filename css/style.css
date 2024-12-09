@@ -1,1 +1,638 @@
+/* =====================================
+Template Name: 	KrakOs.
+Author Name: Alain Tchana
+Description: KrakOs - About Team.
+Version:	1.1
+========================================*/ 
 
+/*--------------------------------------------------------------
+# slyle
+--------------------------------------------------------------*/
+
+ 
+
+.nav-item:hover{
+    color: white;
+}
+
+
+
+.chat-button {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    background-color: #205aa6;
+    color: white;
+    border: none;
+    padding: 10px; 
+    font-size: 24px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 9998; 
+    border-radius: 50%;
+    width: 50px;
+    height: 50px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  .chat-button:hover{
+    background-color: #000;
+  }
+  
+  
+  /* Style pour la fenêtre de chat */
+  .chat-container {
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    display: none; /* Par défaut, la fenêtre est cachée */
+    flex-direction: column;
+    overflow: hidden;
+    z-index: 9999;
+  }
+  
+  /* En-tête de la fenêtre de chat */
+  .chat-header {
+    background-color: #fdc018;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+  }
+  
+  .clear-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  /* Zone des messages */
+  .chat-messages {
+    padding: 15px;
+    flex-grow: 1;
+    overflow-y: auto;
+    font-size: 16px;
+  }
+  
+  /* Entrée pour taper un message */
+  .chat-input {
+    display: flex;
+    border-top: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  .chat-input input {
+    flex-grow: 1;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .chat-input button {
+    border: none;
+    background-color: #165d8b;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Questions pré-définies */
+  .chat-questions {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .chat-questions button {
+    margin: 5px 0;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .chat-questions button:hover {
+    background-color: #165d8b;
+    color: white;
+  }
+  
+  /* Bouton d'envoi avec icône */
+  .send-button {
+    background-color: #165d8b;
+    color: white;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  
+  /* Désactiver le bouton d'envoi quand le champ est vide */
+  .send-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  
+  
+  
+  
+  
+  
+
+.donation-button {
+    display: inline-block;
+    text-align: center;
+    background-color: black; 
+    color: #fdc018; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 50px; 
+    font-size: 16px; 
+    font-weight: bold; 
+    text-decoration: none;
+    cursor: pointer; 
+    transition: all 0.3s ease; 
+}
+
+.donation-button:hover {
+    background-color: #fff; 
+ 
+   }
+
+
+.activeColor{
+    color: #fdc018;
+}
+
+body
+{
+    background-color: #f9fafb;   
+    font-family: 'Poppins', sans-serif;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+}
+
+.news
+{
+    margin-bottom: 10px;
+}
+
+.about
+{
+    margin-left : 180px;
+}
+
+.scaler img {
+    width: 280px;
+}
+
+.flex-container {
+    display: flex;
+    align-items: flex-start; 
+}
+
+
+.accordion img
+{
+    width: 850px;
+}
+
+
+.imgProjet img
+{
+    width : 430px;
+    
+}
+
+
+.groupe
+{
+    width: 100%;
+    height: 550px;
+   
+}
+
+
+.faculty-member img
+      {
+          width: 140px;
+      }
+
+.faculty-container
+{
+  overflow-y: auto;
+}
+
+.droit
+{
+    margin-right: 10px;
+}
+
+
+.navbar .navbar-brand,
+.navbar .navbar-nav .nav-link {
+  color: white;
+}
+
+.colorIcon
+{
+    color: #fdc018;
+    background-color: white;
+}
+
+.col1
+{
+    background-color: black;
+    color: white;
+}
+
+.col2
+{
+    width: 1116px;  
+    margin-top: -10px;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.system
+{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.recent
+{
+    margin-top: -22px;
+    margin-left: 0px;
+}
+
+.aboutAci{
+    color: #fdc018;
+    font-weight: bold;
+}
+
+.changeLength{
+    margin-bottom: 5px;
+}
+.bloc
+{
+    margin-top: 45px;
+}
+
+.bloc h6 a
+{
+    text-decoration: none;
+}
+
+.bloc2 ul li a 
+{
+    text-decoration: none;
+    font-size: 14px;
+}
+
+
+.para
+{
+    margin-top: 25px;
+}
+
+.contact
+{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.groupe
+{
+    margin-bottom: 30px;
+}
+
+.faculty
+{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.search-input {
+    display: none;
+  }
+
+.search-input.show {
+    display: block;
+  }
+
+
+.gras
+{
+    font-weight: bold;
+}
+
+
+.deplaceLeft
+{
+    margin-left: 20px;
+    
+}
+
+
+.faculty-member p
+{
+   color: #C0C0C0;
+}
+
+
+.page-link.active {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  .general
+  {
+    color: #fdc018;
+    font-weight: bold;
+  }
+
+  .ulGras
+  {
+    font-weight: bold;
+  }
+
+  .justify
+  {
+    text-align: justify;
+  }
+nav{
+    background-color: #205aa6;
+}
+
+
+
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 2rem;
+    color: #fdc018;
+    text-decoration: none;
+    display: none;
+  }
+  .back-to-top:focus {
+    outline: none;
+  }
+  .back-to-top:hover {
+    color: #fdc018;
+  }
+  .back-to-top i {
+    transition: transform 0.3s ease-in-out;
+  }
+  .back-to-top:hover i {
+    transform: rotate(360deg);
+  }
+
+
+.colorText
+{
+    color: #fdc018;
+    font-weight: bold;
+}
+
+
+.krakos
+{
+    width: 100%;
+}
+
+/* ####################### responsive plateforme mobile ####################################  */
+
+
+@media only screen and (max-width: 450px) and (max-width: 767px)
+{
+    .krakos img
+    {
+        width: 200px;
+        margin-left : -20px;
+    }
+    
+    .lig img
+    {
+        width: 80px;
+        margin-left: -10px;
+    }
+    
+    .inria img
+    {
+        width: 45px;
+       
+    }
+    
+    .inria{
+         margin-right: 15px;
+    }
+
+    .col1, .col2 {
+        width: 100%;
+    }
+    
+      /* Alignement des éléments dans le deuxième bloc */
+    .col2 .container .row {
+        flex-direction: column;
+      }
+    
+    .col1 {
+        order: 2;
+      }
+    
+    .col2 {
+        order: 1;
+      }
+    
+    .navbar {
+        margin-left: -12px;
+        margin-right: -12px;
+      }
+
+    
+    .container img 
+    {
+        width: 100%;
+    }
+
+    a img.twi
+    {
+        width: 30px;
+        border-radius: 2px;
+    }
+
+    a img.youb
+    {
+        width: 30px;
+        border-radius: 2px;
+    }
+
+    a img.gith
+    {
+        width: 30px;
+        border-radius: 2px;
+    }
+
+    a img.mail
+    {
+        width: 33px;
+        border-radius: 2px;
+    }
+
+    .navbar-nav .vide {
+        display: none;
+      }
+    
+
+    
+
+    .back-to-top {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        
+      }
+      
+      
+      
+    .my-dropdown-menu {
+          min-height: 200px; /* définissez la hauteur minimale souhaitée ici */
+       }
+       
+       .navbar-nav-scroll {
+      min-height: 325px; /* définissez la hauteur minimale souhaitée ici */
+    }
+
+
+     .groupe
+    {
+        width: auto;
+        height: auto;
+    }
+    
+
+
+}
+
+
+/* ############################## responsive sur les tablets  ##############################*/
+
+
+/* Tablet Screen */
+@media only screen and (min-width: 991px) and (max-width:  1024px) {
+
+    .krakos img
+    {
+        width: 370px;
+    }
+
+    .navbar .navbar-brand,
+    .navbar .navbar-nav .nav-link {
+        font-size: 15px;
+    }
+
+    .texteCentral
+    {
+        width: 100%;
+    }
+
+    .imageCentrale
+    {
+        width: 100%;
+    }
+
+    .col1, .col2 {
+        width: 100%;
+    }
+    
+
+    .krak {
+        margin-top: -400px;
+    }
+
+
+
+    .col2 .container .row {
+        flex-direction: column;
+      }
+    
+    .col1 {
+        order: 2;
+      }
+    
+    .col2 {
+        order: 1;
+      }
+    
+    .navbar {
+        margin-left: -29px;
+        margin-right: -29px;
+      }
+
+    
+    .container img 
+    {
+        width: 100%;
+    }
+
+    a img.twi
+    {
+        width: 35px;
+        border-radius: 2px;
+    }
+
+    a img.youb
+    {
+        width: 35px;
+        border-radius: 2px;
+    }
+
+    a img.gith
+    {
+        width: 35px;
+        border-radius: 2px;
+    }
+
+    a img.mail
+    {
+        width: 38px;
+        border-radius: 2px;
+    }
+
+    .navbar-nav .vide {
+        display: none;
+      }
+      .faculty-member img
+      {
+          width: 30px;
+      }
+  
+
+}
