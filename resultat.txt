@@ -1,0 +1,848 @@
+Loading thingies...
+valeur du port : 8095
+Temps pour la connexion à USM : 0.11 ms
+Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 3
+valeur de length : 23
+voici le content : A;10;0x7156ae4fd000;tmp
+pid de processus : 5131
+valeur associer de processus : Test_hint_laten
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Temps pour l'envoi de la requête : 0.18 ms
+Réponse USM : Tout s'est bien passé
+Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7156ae4fd000
+Écriture : 0x7156ae4fe000
+Écriture : 0x7156ae4ff000
+Écriture : 0x7156ae500000
+Écriture : 0x7156ae501000
+Écriture : 0x7156ae502000
+Écriture : 0x7156ae503000
+Écriture : 0x7156ae504000
+Écriture : 0x7156ae505000
+Écriture : 0x7156ae506000
+ok bien
+carlos@
+
+
+
+
+
+################# apres 30 iteration ###############
+
+
+[sudo] Mot de passe de carlos : 
+Loading thingies...
+valeur du port : 8095
+Iteration 1 - Temps pour la connexion à USM : 0.10 ms
+Iteration 1 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 3
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 1 - Temps pour l'envoi de la requête : 0.24 ms
+Réponse USM : Tout s'est bien passé
+Iteration 1 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 2 - Temps pour la connexion à USM : 0.14 ms
+Iteration 2 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 4
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 2 - Temps pour l'envoi de la requête : 0.21 ms
+Réponse USM : Tout s'est bien passé
+Iteration 2 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 3 - Temps pour la connexion à USM : 0.08 ms
+Iteration 3 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 5
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 3 - Temps pour l'envoi de la requête : 0.13 ms
+Réponse USM : Tout s'est bien passé
+Iteration 3 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 4 - Temps pour la connexion à USM : 0.07 ms
+Iteration 4 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 6
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 4 - Temps pour l'envoi de la requête : 0.12 ms
+Réponse USM : Tout s'est bien passé
+Iteration 4 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 5 - Temps pour la connexion à USM : 0.05 ms
+Iteration 5 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 7
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 5 - Temps pour l'envoi de la requête : 0.11 ms
+Réponse USM : Tout s'est bien passé
+Iteration 5 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 6 - Temps pour la connexion à USM : 0.06 ms
+Iteration 6 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 8
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 6 - Temps pour l'envoi de la requête : 0.15 ms
+Réponse USM : Tout s'est bien passé
+Iteration 6 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 7 - Temps pour la connexion à USM : 0.07 ms
+Iteration 7 - Temps pour l'allocation mémoire : 0.03 ms
+valeur de socket non : 9
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 7 - Temps pour l'envoi de la requête : 0.16 ms
+Réponse USM : Tout s'est bien passé
+Iteration 7 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 8 - Temps pour la connexion à USM : 0.06 ms
+Iteration 8 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 10
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 8 - Temps pour l'envoi de la requête : 0.15 ms
+Réponse USM : Tout s'est bien passé
+Iteration 8 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 9 - Temps pour la connexion à USM : 0.06 ms
+Iteration 9 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 11
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 9 - Temps pour l'envoi de la requête : 0.14 ms
+Réponse USM : Tout s'est bien passé
+Iteration 9 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 10 - Temps pour la connexion à USM : 0.05 ms
+Iteration 10 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 12
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 10 - Temps pour l'envoi de la requête : 0.18 ms
+Réponse USM : Tout s'est bien passé
+Iteration 10 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 11 - Temps pour la connexion à USM : 0.06 ms
+Iteration 11 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 13
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 11 - Temps pour l'envoi de la requête : 0.12 ms
+Réponse USM : Tout s'est bien passé
+Iteration 11 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 12 - Temps pour la connexion à USM : 0.06 ms
+Iteration 12 - Temps pour l'allocation mémoire : 0.02 ms
+valeur de socket non : 14
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 12 - Temps pour l'envoi de la requête : 0.12 ms
+Réponse USM : Tout s'est bien passé
+Iteration 12 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 13 - Temps pour la connexion à USM : 0.08 ms
+Iteration 13 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 15
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 13 - Temps pour l'envoi de la requête : 0.15 ms
+Réponse USM : Tout s'est bien passé
+Iteration 13 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 14 - Temps pour la connexion à USM : 0.08 ms
+Iteration 14 - Temps pour l'allocation mémoire : 0.02 ms
+valeur de socket non : 16
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 14 - Temps pour l'envoi de la requête : 0.14 ms
+Réponse USM : Tout s'est bien passé
+Iteration 14 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 15 - Temps pour la connexion à USM : 0.06 ms
+Iteration 15 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 17
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 15 - Temps pour l'envoi de la requête : 0.12 ms
+Réponse USM : Tout s'est bien passé
+Iteration 15 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 16 - Temps pour la connexion à USM : 0.06 ms
+Iteration 16 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 18
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 16 - Temps pour l'envoi de la requête : 0.12 ms
+Réponse USM : Tout s'est bien passé
+Iteration 16 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 17 - Temps pour la connexion à USM : 0.07 ms
+Iteration 17 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 19
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 17 - Temps pour l'envoi de la requête : 0.13 ms
+Réponse USM : Tout s'est bien passé
+Iteration 17 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 18 - Temps pour la connexion à USM : 0.06 ms
+Iteration 18 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 20
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 18 - Temps pour l'envoi de la requête : 0.12 ms
+Réponse USM : Tout s'est bien passé
+Iteration 18 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 19 - Temps pour la connexion à USM : 0.06 ms
+Iteration 19 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 21
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 19 - Temps pour l'envoi de la requête : 0.12 ms
+Réponse USM : Tout s'est bien passé
+Iteration 19 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 20 - Temps pour la connexion à USM : 0.06 ms
+Iteration 20 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 22
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 20 - Temps pour l'envoi de la requête : 0.13 ms
+Réponse USM : Tout s'est bien passé
+Iteration 20 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 21 - Temps pour la connexion à USM : 0.08 ms
+Iteration 21 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 23
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 21 - Temps pour l'envoi de la requête : 0.15 ms
+Réponse USM : Tout s'est bien passé
+Iteration 21 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 22 - Temps pour la connexion à USM : 0.06 ms
+Iteration 22 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 24
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 22 - Temps pour l'envoi de la requête : 0.16 ms
+Réponse USM : Tout s'est bien passé
+Iteration 22 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 23 - Temps pour la connexion à USM : 0.13 ms
+Iteration 23 - Temps pour l'allocation mémoire : 0.02 ms
+valeur de socket non : 25
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 23 - Temps pour l'envoi de la requête : 0.74 ms
+Réponse USM : Tout s'est bien passé
+Iteration 23 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 24 - Temps pour la connexion à USM : 0.06 ms
+Iteration 24 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 26
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 24 - Temps pour l'envoi de la requête : 0.11 ms
+Réponse USM : Tout s'est bien passé
+Iteration 24 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 25 - Temps pour la connexion à USM : 0.06 ms
+Iteration 25 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 27
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 25 - Temps pour l'envoi de la requête : 0.12 ms
+Réponse USM : Tout s'est bien passé
+Iteration 25 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 26 - Temps pour la connexion à USM : 0.06 ms
+Iteration 26 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 28
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 26 - Temps pour l'envoi de la requête : 0.12 ms
+Réponse USM : Tout s'est bien passé
+Iteration 26 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 27 - Temps pour la connexion à USM : 0.12 ms
+Iteration 27 - Temps pour l'allocation mémoire : 0.02 ms
+valeur de socket non : 29
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 27 - Temps pour l'envoi de la requête : 0.22 ms
+Réponse USM : Tout s'est bien passé
+Iteration 27 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 28 - Temps pour la connexion à USM : 0.09 ms
+Iteration 28 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 30
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 28 - Temps pour l'envoi de la requête : 0.14 ms
+Réponse USM : Tout s'est bien passé
+Iteration 28 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 29 - Temps pour la connexion à USM : 0.06 ms
+Iteration 29 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 31
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 29 - Temps pour l'envoi de la requête : 0.13 ms
+Réponse USM : Tout s'est bien passé
+Iteration 29 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+valeur du port : 8095
+Iteration 30 - Temps pour la connexion à USM : 0.06 ms
+Iteration 30 - Temps pour l'allocation mémoire : 0.01 ms
+valeur de socket non : 32
+valeur de length : 23
+voici le content : A;10;0x7c7271ec2000;tmp
+pid de processus : 6264
+valeur associer de processus : Test_latence_30
+Requete envoyée : 61
+valeur : Tout s'est bien passé
+Iteration 30 - Temps pour l'envoi de la requête : 0.14 ms
+Réponse USM : Tout s'est bien passé
+Iteration 30 - Temps pour la réponse de USM : 0.00 ms
+Écriture : 0x7c7271ec2000
+Écriture : 0x7c7271ec3000
+Écriture : 0x7c7271ec4000
+Écriture : 0x7c7271ec5000
+Écriture : 0x7c7271ec6000
+Écriture : 0x7c7271ec7000
+Écriture : 0x7c7271ec8000
+Écriture : 0x7c7271ec9000
+Écriture : 0x7c7271eca000
+Écriture : 0x7c7271ecb000
+ok bien
+
+Moyennes des temps après 30 itérations :
+Temps moyen pour la connexion à USM : 0.07 ms
+Temps moyen pour l'allocation mémoire : 0.01 ms
+Temps moyen pour l'envoi de la requête : 0.16 ms
+Temps moyen pour la réponse de USM : 0.00 ms
+
+
+
+############# metrique avec pas de 10
+
+Écriture : 0x76faa2b6d000
+Écriture : 0x76faa2b6e000
+Écriture : 0x76faa2b6f000
+ok bien
+
+Résultats des métriques pour différentes valeurs de pages allouées :
+Pages allouées : 10
+  Temps pour la connexion à USM : 0.10 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.14 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 20
+  Temps pour la connexion à USM : 0.04 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.10 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 30
+  Temps pour la connexion à USM : 0.07 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.14 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 40
+  Temps pour la connexion à USM : 0.13 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.12 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 50
+  Temps pour la connexion à USM : 0.07 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.12 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 60
+  Temps pour la connexion à USM : 0.11 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.13 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 70
+  Temps pour la connexion à USM : 0.07 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.13 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 80
+  Temps pour la connexion à USM : 0.06 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.18 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 90
+  Temps pour la connexion à USM : 0.07 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.13 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 100
+  Temps pour la connexion à USM : 0.07 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.22 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 110
+  Temps pour la connexion à USM : 0.06 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.18 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 120
+  Temps pour la connexion à USM : 0.06 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.12 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 130
+  Temps pour la connexion à USM : 0.06 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.12 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 140
+  Temps pour la connexion à USM : 0.07 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.13 ms
+  Temps pour la réponse de USM : 0.00 ms
+Pages allouées : 150
+  Temps pour la connexion à USM : 0.06 ms
+  Temps pour l'allocation mémoire : 0.01 ms
+  Temps pour l'envoi de la requête : 0.18 ms
+  Temps pour la réponse de USM : 0.00 ms
